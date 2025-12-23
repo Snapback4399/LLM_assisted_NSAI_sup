@@ -1,10 +1,3 @@
-# LLM_assisted_NSAI_sup
-
-> **Note:**  
-> In th LLM_assited_NSAI, symbolic knowledge representations are constructed with access to deposit-model information prior to model training.  
-> That setup is intended to evaluate the *upper-bound contribution* of domain knowledge under idealized conditions, rather than to represent a fully label-independent deployment pipeline.
-
----
 
 ## Supplementary Implementation
 
